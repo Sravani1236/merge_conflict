@@ -1,0 +1,3 @@
+It is merge confict example
+It is managed by userA and userB
+.........................
